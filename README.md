@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A backend developer student</h3>
+<h3 align="center">A Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-alba15&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-alba15" /> </p>
 
